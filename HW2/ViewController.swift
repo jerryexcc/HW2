@@ -27,7 +27,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
                                   UIImage(named:"金牛女戴佩妮")!,
                                   UIImage(named:"雙子女楊丞琳")!,
                                   UIImage(named:"巨蟹女關穎")!,
-                                  UIImage(named:"獅子女柴崎幸")!,
+                                  UIImage(named:"獅子女小倉唯")!,
                                   UIImage(named:"處女女王心凌")!,
                                   UIImage(named:"天秤女濱崎步")!,
                                   UIImage(named:"天蠍女林依晨")!,
@@ -127,7 +127,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
                 labelName.text = "巨蟹女 關穎"
                 break
             case 4:
-                labelName.text = "獅子女 柴崎幸"
+                labelName.text = "獅子女 超可愛的 小倉唯"
                 break
             case 5:
                 labelName.text = "處女(女) 王心凌"
