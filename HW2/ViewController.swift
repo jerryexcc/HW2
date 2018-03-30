@@ -25,7 +25,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
                                  UIImage(named:"博愛座男")!]
     var girlsImages: [UIImage] = [UIImage(named:"牡羊女綾瀨遙")!,
                                   UIImage(named:"金牛女戴佩妮")!,
-                                  UIImage(named:"雙子女楊丞琳")!,
+                                  UIImage(named:"雙子女新垣結衣")!,
                                   UIImage(named:"巨蟹女關穎")!,
                                   UIImage(named:"獅子女小倉唯")!,
                                   UIImage(named:"處女女王心凌")!,
@@ -121,7 +121,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
                 labelName.text = "金牛女 Peter的偶像 戴佩妮"
                 break
             case 2:
-                labelName.text = "雙子女 楊丞琳"
+                labelName.text = "雙子女 治癒系女神 新垣結衣"
                 break
             case 3:
                 labelName.text = "巨蟹女 關穎"
